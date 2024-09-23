@@ -1,0 +1,1 @@
+A Power BI dashboard for terrorism analysis provides a comprehensive view of global terrorism data through visual and interactive insights. The dashboard typically includes key metrics and trends related to terrorist incidents, fatalities, injuries, and geographic patterns over time.
